@@ -1,0 +1,23 @@
+{
+  "name": "@westtrade/deploy",
+  "version": "0.0.1",
+  "description": "Deploy tools for projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/westtrade/deploy.git"
+  },
+  "keywords": [
+    "deploy",
+    "nodejs"
+  ],
+  "author": "gennadiy.popov.87@yandex.ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/westtrade/deploy/issues"
+  },
+  "homepage": "https://github.com/westtrade/deploy#readme"
+}
